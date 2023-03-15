@@ -1,0 +1,21 @@
+.customHr {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.posRelative {
+    position: relative;
+}
+
+.posAbsolute {
+    position: absolute;
+}
+
+#bgVideo {
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    opacity: 0.4
+  }
